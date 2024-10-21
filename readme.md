@@ -1,5 +1,8 @@
+# The Original Material Mod Used For This Repo Was Discontinued, This Will Remain On github, however this is no longer fuctional
+
+
 # Monke Mats By CanDoesGames  
 
-`This is no-longer maintained, this is due to the mod that monke mats used being discontinued, if you know of any material mods that still work, contact "candoesgames" on discord.`
+
 
 `CERTAIN MATERIALS ARE NOT OWNED BY ME`
